@@ -1,0 +1,16 @@
+
+.profile.data-v-60cb334c {
+  padding: 20px;
+}
+.profile-info.data-v-60cb334c {
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.profile-name.data-v-60cb334c {
+  font-size: 20px;
+  color: #333;
+}
+

@@ -1,0 +1,1 @@
+<view class="data-v-3e159eb4"><view class="detail-title data-v-3e159eb4">{{news.title}}</view><view class="detail-brief data-v-3e159eb4">{{news.brief}}</view><button data-event-opts="{{[['tap',[['openArticle',['$event']]]]]}}" class="read-article-button data-v-3e159eb4" bindtap="__e">阅读原文</button></view>
